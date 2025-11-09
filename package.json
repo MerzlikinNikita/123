@@ -11,11 +11,9 @@
     "start": "http-server -c-l ./"
   },
   "dependencies": {
-    "jquery": "^3.7.1",
-    "lodash": "^4.17.21"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
-    "http-server": "^14.1.1",
     "webpack": "^5.102.1",
     "webpack-cli": "^6.0.1"
   }
